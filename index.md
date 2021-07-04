@@ -1,6 +1,4 @@
-## letters.
-
-### Welcome to letters.
+## Welcome to letters.
 
 letters. is a platform for students and members of the faculty and staff of Amrita Vishwa Vidyapeetham to post named or anonymous open letters.
 
