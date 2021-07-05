@@ -1,2 +1,1 @@
-# Q-C-I-C
-Quis custodiet ipsos custodes?
+# Quis custodiet ipsos custodes?
