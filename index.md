@@ -1,6 +1,6 @@
 <head>
   <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
- <\head>
+ </head>
 
 
 ## Welcome to letters.
