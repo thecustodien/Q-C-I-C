@@ -1,6 +1,4 @@
 title: letters.
 
 #theme: jekyll-theme-hacker
-#remote_theme: daattali/beautiful-jekyll
-
-remote_theme: niklasbuschmann/contrast@v2.11
+remote_theme: daattali/beautiful-jekyll
