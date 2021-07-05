@@ -4,7 +4,7 @@ Let me ask that again. What gives? Here we have a university, I'm sorry, let me 
 
 To my knowledge, we have had two students take their own lives this past academic year. Though I identify as a narcissistic misanthrope of medium intensity, this strikes me. What pushes my buttons even more is the fact that the Vishwa Vidyapeetham has taken no steps to let the larger student populace in on the knowledge. Maybe academics and education related factors played less than active roles in the motivations behind these self euthanizations. Maybe they did not. However, is not a genteel approach to remembering the students expected of this awfully "cultured" Vishwa Vidyapeetham? Write back to me on this. You know where to find me.
 
-The institution we study in is marked by a complete lack of a collective identity. Let's see what we can do about it.
+The institution we study at is marked by a complete lack of a collective identity. Let's see what we can do about it.
 
 Let us have an open conversation. If you have problems, write to me. If you have answers to somebody else's problems, write to me. Write to me even if you just want to rant. As long as the content is not inappropriate or offensive to my judgement, I will publish it. 
 
