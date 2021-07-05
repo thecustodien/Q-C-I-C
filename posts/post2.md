@@ -1,7 +1,7 @@
 ### Is that Unreasonable?
 
-#### To: The Dean, The Management  
-#### cc: The Class Advisor, Chair of the Department
+##### To: The Dean, The Management  
+##### cc: The Class Advisor, Chair of the Department
 
 Dear Sir,
 
