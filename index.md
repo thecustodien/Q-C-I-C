@@ -1,5 +1,4 @@
-<head>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y5PV0LFC5E"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -7,10 +6,8 @@
   gtag('js', new Date());
 
   gtag('config', 'G-Y5PV0LFC5E');
-</script>
-  
-  <link rel="shortcut icon" type="image/png" href="/assets/favicon.png">
-</head>
+</script> 
+<link rel="shortcut icon" type="image/png" href="/assets/favicon.png">
 ## Welcome to letters.
 
 letters. is a platform for students and members of the faculty and staff of Amrita Vishwa Vidyapeetham to post named or anonymous open letters.
