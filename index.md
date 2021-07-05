@@ -1,8 +1,4 @@
-<head>
-  <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
- </head>
-
-
+<link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
 ## Welcome to letters.
 
 letters. is a platform for students and members of the faculty and staff of Amrita Vishwa Vidyapeetham to post named or anonymous open letters.
