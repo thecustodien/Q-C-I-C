@@ -4,6 +4,7 @@ letters. is a platform for students and members of the faculty and staff of Amri
 
 ### Read Something.
 
+[Is that Unreasonable?](/posts/post2.md)
 [Dear Communis...](/posts/post1.md)
 
 ### We want to hear from you.
