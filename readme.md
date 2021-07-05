@@ -2,7 +2,7 @@
 
 letters. is a platform for students and members of the faculty and staff of Amrita Vishwa Vidyapeetham to post named or anonymous open letters.
 
-### To read, visit [letters.](https://thecustodien.github.io/letters) 
+### To read letters from the community, visit [letters.](https://thecustodien.github.io/letters) 
 
 ### We want to hear from you.
 
