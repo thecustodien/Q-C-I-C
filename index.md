@@ -7,7 +7,7 @@
 
   gtag('config', 'G-Y5PV0LFC5E');
 </script> 
-<link rel="shortcut icon" type="image/png" href="/assets/favicon.png">  
+<link rel="shortcut icon" type="image/png" href="assets/favicon.png">  
 
 ## Welcome to letters.
 
