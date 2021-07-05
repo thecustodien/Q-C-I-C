@@ -4,7 +4,7 @@ letters. is a platform for students and members of the faculty and staff of Amri
 
 ### Read Something.
 
-[What Gives?](/posts/post1.md)
+[Re: What Gives?](/posts/post1.md)
 
 ### We want to hear from you.
 
