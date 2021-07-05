@@ -11,8 +11,6 @@
   
   <link rel="shortcut icon" type="image/png" href="/assets/favicon.png">
 </head>
-
-<div class="home" markdown="1">
 ## Welcome to letters.
 
 letters. is a platform for students and members of the faculty and staff of Amrita Vishwa Vidyapeetham to post named or anonymous open letters.
@@ -24,4 +22,4 @@ letters. is a platform for students and members of the faculty and staff of Amri
 ### We want to hear from you.
 
 Want to send in your own letter? Or, do you have a problem with one of the existing letters? Email your draft or queries to us at [thecustodien@protonmail.com](thecustodien@protonmail.com).
-</div>
+
