@@ -1,3 +1,9 @@
+---
+layout: post
+title: Is that Unreasonable?
+subtitle: Woes of a disgruntled student.
+---
+
 ### Is that Unreasonable?
 
 ##### To: The Dean, The Management  
